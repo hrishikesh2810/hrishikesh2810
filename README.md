@@ -61,6 +61,6 @@ I’m actively starting my open-source journey by:
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/hrishikesh2810  
-- LinkedIn: *(add if you want)*  
+- LinkedIn: https://www.linkedin.com/in/hrishikesh-badgujar/ 
 
 ⭐ Always open to collaboration and learning!
