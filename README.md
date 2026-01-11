@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Hrishikesh 👋  
 
-<!--
-**hrishikesh2810/hrishikesh2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Final Year Computer Engineering Student  
+💻 Web Developer (JavaScript, React, Node.js)  
+🌍 Exploring Open Source & Building Real-World Products  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I’m a web developer passionate about building scalable, user-friendly applications using modern JavaScript technologies.  
+I enjoy working on full-stack projects, experimenting with AI-powered tools, and contributing to open-source communities.
+
+Currently focused on:
+- Writing clean, maintainable frontend code
+- Understanding large production codebases
+- Contributing meaningful pull requests to open-source projects
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** JavaScript, React, HTML, CSS  
+**Backend:** Node.js, Express  
+**Database:** MongoDB, SQLite  
+**Tools:** Git, GitHub, Docker, Nginx  
+**Interests:** Web Apps, SaaS, UI/UX, Open Source  
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 H-SAFE
+Firewall Policy Simulation & Analysis Framework  
+Tech: Python, Backend Systems  
+➡ Simulates firewall behavior using real and synthetic traffic  
+
+### 🔹 AI Invoice Generator
+Automated invoice generation using AI  
+Tech: JavaScript, Web, AI Integration  
+➡ Converts business data into professional invoices  
+
+### 🔹 CUTLAB (In Progress)
+AI-powered video editing & scene detection tool  
+Tech: Python, Web UI, AI  
+➡ Detects scenes, suggests cuts, and enables smart editing  
+
+---
+
+## 🌱 Open Source Journey
+
+I’m actively starting my open-source journey by:
+- Exploring popular JavaScript & web repositories
+- Solving real issues
+- Submitting high-quality pull requests  
+
+📌 Goal: Contribute to large-scale projects and collaborate with experienced developers.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/hrishikesh2810  
+- LinkedIn: *(add if you want)*  
+
+⭐ Always open to collaboration and learning!
